@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.swapcup.kotlin",
+    "sha256_cert_fingerprints":
+    ["91:2F:95:25:12:56:1F:1B:32:54:D9:DE:DE:C2:EA:E3:10:8D:26:AC:CE:82:BD:AC:1F:86:0B:21:9A:81:0E:61"]
+  }
+}]
